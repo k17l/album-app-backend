@@ -2,7 +2,7 @@
 
 ## Demo of the application can be seen in the below URL
 
-### https://album-app-backend.herokuapp.com/users(UnAuthenticated) - GET Request
+### https://album-app-backend.herokuapp.com/users (UnAuthenticated) - GET Request
 
 ### https://album-app-backend.herokuapp.com/authenticate - POST Request
 
@@ -24,10 +24,10 @@ Body :
 }
 
 
-### https://album-app-backend.herokuapp.com/albums(Authenticated) - GET Request
-### https://album-app-backend.herokuapp.com/photos(Authenticated) - GET Request
-### https://album-app-backend.herokuapp.com/albums/1(Authenticated) - GET Request
-### https://album-app-backend.herokuapp.com/photos/1(Authenticated) - GET Request
+### https://album-app-backend.herokuapp.com/albums (Authenticated) - GET Request
+### https://album-app-backend.herokuapp.com/photos (Authenticated) - GET Request
+### https://album-app-backend.herokuapp.com/albums/1 (Authenticated) - GET Request
+### https://album-app-backend.herokuapp.com/photos/1 (Authenticated) - GET Request
 
 
 - [ ] Sample Header:
